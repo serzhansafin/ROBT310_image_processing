@@ -39,3 +39,5 @@ by histeq, this block was enhanced and alien is appeared.
 # Part 2: Visual illusion
 “Dither is an intentionally applied form of noise used to randomize quantization error, preventing largescale patterns such as color banding in images.”
 Floyd–Steinberg dithering is used
+
+![Figure 1. Part 1: 1.1](part2.PNG)
