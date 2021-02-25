@@ -40,4 +40,7 @@ by histeq, this block was enhanced and alien is appeared.
 “Dither is an intentionally applied form of noise used to randomize quantization error, preventing largescale patterns such as color banding in images.”
 Floyd–Steinberg dithering is used
 
+The image on the left is grayscale image with 256 levels, and the image on right has only two
+levels: black and white. You see gray tones on the right, however it is only an illusion.
+
 ![Figure 1. Part 1: 1.1](part2.PNG)
