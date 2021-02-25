@@ -15,6 +15,7 @@ The homework project 2 consists of two parts:
 
 # The warm-up part 
 # 1.1 Nearest-Neighbor Interpolation technique
-1.1) A grayscale image was taken
+1.1) A grayscale image was taken and enlarged using Nearest-Neighbor Interpolation technique.
+All detailed comments and description in the code
 
 ![Figure 1. Part 1: 1.1](part1_task1_1.PNG)
