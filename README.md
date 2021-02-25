@@ -33,3 +33,5 @@ function (cdf) of entire image (as one block) was impacted
 and when blockproc was used, the cdf of a block with the size 40 by 40 is
 only used. That is why when the block (40*40) with alien was affected
 by histeq, this block was enhanced and alien is appeared.
+
+# The main part:
