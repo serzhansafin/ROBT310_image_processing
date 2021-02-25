@@ -12,3 +12,9 @@ The homework project 2 consists of two parts:
  Visual illusion
  Floyd–Steinberg dithering:
  “Dither is an intentionally applied form of noise used to randomize quantization error, preventing largescale patterns such as color banding in images.”
+
+# The warm-up part 
+# 1.1 Nearest-Neighbor Interpolation technique
+1.1) A grayscale image was taken
+
+![Figure 1. Part 1: 1.1](part1_task1_1.PNG)
