@@ -38,6 +38,8 @@ by histeq, this block was enhanced and alien is appeared.
 
 # Part 2: Visual illusion
 “Dither is an intentionally applied form of noise used to randomize quantization error, preventing largescale patterns such as color banding in images.”
+The Floyd-Steinberg dithering algorithm is based on error dispersion.
+
 Floyd–Steinberg dithering is used
 
 The image on the left is grayscale image with 256 levels, and the image on right has only two
